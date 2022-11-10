@@ -1,0 +1,77 @@
+body {
+    font-family: 'Open sans', sans-serif;
+}
+
+.port-main {
+    display: flex;
+    margin-bottom: 140px;
+}
+
+.port-main-text {
+    width: 50%;
+    padding: 20px;
+}
+
+.port-main-text h2 span {
+    color: orange;
+}
+
+.port-main-img {
+    width: 50%;
+    text-align: center;
+
+}
+
+.port-main-img img {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 30%;
+    border: 5px solid orange;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 7px;
+}
+
+
+
+.dream-big {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.db-img {
+    width: 50%;
+    text-align: center;
+}
+
+.db-img img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.db-text {
+    width: 50%;
+}
+
+.db-text h1 {
+    font-size: 40px;
+    color: orange;
+}
+
+.db-text p {
+    text-align: justify;
+}
+
+.db-text a {
+    text-decoration: none;
+    padding: 10px 25px;
+    background: orange;
+    color: #fff;
+    border-radius: 7px;
+}
