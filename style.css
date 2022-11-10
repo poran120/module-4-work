@@ -75,3 +75,51 @@ body {
     color: #fff;
     border-radius: 7px;
 }
+
+.exp-area {
+    padding: 0 40px;
+    margin-bottom: 100px;
+}
+
+.exp-area-main {
+    display: flex;
+    gap: 50px;
+}
+
+.exp-1 {
+    width: 50%;
+    height: 400px;
+    background: #f3f1f1;
+    padding: 0 20px;
+    box-shadow: 10px 10px 20px gray;
+    border-left: 10px solid orange;
+}
+
+.exp-2 {
+    width: 50%;
+    height: 400px;
+    background: #f3f1f1;
+    padding: 0 20px;
+    box-shadow: 10px 10px 20px gray;
+    border-left: 10px solid tomato;
+}
+
+.exp-1 h5 {
+    color: orange;
+}
+
+.exp-2 h5 {
+    color: orange;
+}
+
+.exp-1 p {
+    text-align: justify;
+}
+
+.exp-1 h1 {
+    font-size: 35px;
+}
+
+.footer-sec p {
+    text-align: center;
+}
